@@ -2,16 +2,15 @@
 # Rusty-Samurai
 A bot moderator for telegram.
 
-## Commands ?
+## Commands 
 - Invite Link
 - Report
 - Set language
 
-## Lanuages ?
+## Lanuages 
 - English (Profanity Filter&Localization)
 - Ukrainian (Localization)
 - Russian (Localization)
-
 - 
 # Author
 Alt Demono (Dmitry)
