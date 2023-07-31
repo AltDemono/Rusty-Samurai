@@ -1,0 +1,25 @@
+messages:
+  invite_link_message: <b>Here's the invite link of the chat\n<a href="%{invite_link}">Go to message</a></b>
+  failed_send_message_private_chat: <b>You can't use this command in private chats</b>
+  report_sended: ✅ Report sended!
+  cannot_report_user: ❌ You can't report this user!
+  report_not_reply: ❌ A message should be a reply to another message!
+  bot_isnt_in_chat: ❌ To use this feature, the bot must be a member of a group!
+  report_message: "💬Chat: %{chat}\n✉️Message: %{msg}\n👤From: %{from}\n🕵🏻‍♂️Reported: %{reported}\n<a href=%{link}>📩Open Message</a>"
+  failed_set_language: ❌ Unknown language tag. Avaible tags (en-us, uk-ua, ru-ru)
+  user_was_muted: 🙊 User was muted!
+  user_was_kicked: 🚀 User was kicked!
+  user_was_banned: 🚫 User was banned!
+  not_owner: ❌ To use this feature, you must be the owner of this bot!
+  language_changed: ✅ The language has been successfully changed!
+
+punishments:
+  buttons: 
+    delete: "🗑 Delete"
+    mute: "🔇 Mute"
+    del_and_ban: "🚫 Del&Ban"
+    del_and_read_only: "🙊 Del&Mut"
+    no_violations: "❎ No violations"
+    no_media: "🖼 No media"
+    no_stickers: "🌚 No stickers"
+    del_and_kick: "🚫 Del&Kick"

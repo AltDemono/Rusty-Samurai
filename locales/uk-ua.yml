@@ -1,0 +1,25 @@
+messages:
+  invite_link_message: <b>Ось посилання для запрошення в чат\n<a href="%{invite_link}">Перейти до повідомлення</a></b>
+  failed_send_message_private_chat: <b>Ви не можете використовувати цю команду в приватних чатах</b>
+  report_sended: ✅ Звіт відправлено!
+  cannot_report_user: ❌ Ви не можете повідомити про цього користувача!
+  report_not_reply: ❌ Повідомлення має бути відповіддю на інше повідомлення!
+  bot_isnt_in_chat: ❌ Щоб скористатися цією функцією, бот повинен бути членом групи!
+  report_message: "💬Chat: %{chat}\n✉️Message: %{msg}\n👤From: %{from}\n🕵🏻‍♂️Reported: %{reported}\n<a href=%{link}>📩Open Message</a>"
+  failed_set_language: ❌ Невідомий тег мови. Доступні теги (en-us, uk-ua, ru-ru)
+  user_was_muted: 🙊 Користувача було вимкнено!
+  user_was_kicked: 🚀 Користувача було вигнано!
+  user_was_banned: 🚫 Користувача було заблоковано!
+  not_owner: ❌ Щоб скористатися цією функцією, ви повинні бути власником цього бота!
+  language_changed: ✅ Мова успішно була змінена!
+
+punishments:
+  buttons: 
+    delete: "🗑 Видалити"
+    mute: "🔇 Вимкнути звук."
+    del_and_ban: "🚫 Видалити&Забанити"
+    del_and_read_only: "🙊 Видалити&Вимкнути"
+    no_violations: "❎ Порушень не виявлено"
+    no_media: "🖼 Жодних медіа"
+    no_stickers: "🌚 Без наклейок"
+    del_and_kick: "🚫 Видалити&Вигнати"
