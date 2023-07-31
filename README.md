@@ -11,6 +11,12 @@ A bot moderator for telegram.
 - English (Profanity Filter&Localization)
 - Ukrainian (Localization)
 - Russian (Localization)
-- 
+
+## Todo
+- [] Add DB
+- [] Add Ukrainian profanity filter
+- [] Add Russian profanity filer
+- [] Add gban, gmute, gkick commands
+
 # Author
 Alt Demono (Dmitry)
