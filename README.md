@@ -7,7 +7,7 @@ A bot moderator for telegram.
 - Report
 - Set language
 
-## Lanuages 
+## Languages 
 - English (Profanity Filter&Localization)
 - Ukrainian (Localization)
 - Russian (Localization)
