@@ -14,7 +14,7 @@ mod actions;
 mod utils;
 
 // const TOKEN_KEY: &str = "<KEY>";
-const TOKEN_KEY: &str = "5980865809:AAEUeekxtY15UmRBjUzKV5g3I_9KlPhUfvM";
+const TOKEN_KEY: &str = "YOUR_KEY";
 
 // fill this field with your reports_chat_id
 const REPORTS_CHAT_ID: i64 = -1001778994193;
