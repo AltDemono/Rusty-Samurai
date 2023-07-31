@@ -13,10 +13,10 @@ A bot moderator for telegram.
 - Russian (Localization)
 
 ## Todo
-- [] Add DB
-- [] Add Ukrainian profanity filter
-- [] Add Russian profanity filer
-- [] Add gban, gmute, gkick commands
+- [ ] Add DB
+- [ ] Add Ukrainian profanity filter
+- [ ] Add Russian profanity filer
+- [ ] Add gban, gmute, gkick commands
 
 # Author
 Alt Demono (Dmitry)
